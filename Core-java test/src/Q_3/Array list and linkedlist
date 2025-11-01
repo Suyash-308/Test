@@ -1,0 +1,11 @@
+1]ArrayList
+  It is used dynamic array behind it.
+  In arrayList wastage of memory take place.
+  It is a best choice for retrieve the data.
+  Worst choice for insertion deletion
+
+2]LinkedList
+   LinkedList is linkedMap behind it.
+   It is good for insertion and deletion purpose.
+   There is no wastage of memory.
+   Worst choice for dat retrieval.

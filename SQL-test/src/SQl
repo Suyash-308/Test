@@ -1,0 +1,26 @@
+1]
+create table employees;
+
+insert into employees (id primary_key auto_increment,name,salary,department)values(
+('Suyash',10000,'it'),
+('ravan',1023000,'it'),
+('ram',1003050,'cs'),
+);
+
+select * from employees where salary>50000;
+
+update salary 70000 where id =2;
+
+
+2]
+select * from employees offered_by des limit=3;
+
+
+3]
+INNER JOIN
+In inner join select the data common  from both table.
+
+LEFT JOIN
+select all from left table and common from the another table.
+
+

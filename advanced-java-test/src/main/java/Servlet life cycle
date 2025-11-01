@@ -1,0 +1,5 @@
+Servlet lifecycle id nothing but three methods init,service and distroy.
+when first http request come or application deploy it call,init method call only once .
+service method call every http request and distroy method call when application is stop or undeploy.
+This three method are lifecycle of servlet.
+\

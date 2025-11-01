@@ -1,0 +1,28 @@
+Oops is one the important concept i java. which talk about object.
+there are four type of oops concept:
+1] Encapsulation
+   Encapsulation is the oops concept which secure the object.achieve encapsulation by making class member private(variable) and final(method).
+   Use getter and setter method to get and set value in another class.
+
+2]Inheritance
+  In inheritance one class use code of another class and avoid the code duplication.
+  It is like parent-child relation.child acquire property from parent.
+  types:
+  a] Single-level
+  b] Multi-level
+  c] Multiple     (not support in java through classes but support through interface)
+  d] Hierarchical
+
+3] Polymorphism
+    One object behave differently
+     a] Method-overloading   (compile time)
+     b]Method-overriding       (run time)
+
+4] Abstraction
+    Show functionality and hide the implementation.
+    Achieve abstraction using abstract class and interface.
+
+
+
+
+

@@ -1,0 +1,3 @@
+Unwanted event disturbed the normal flow of pgm and terminate pgm abnormally.
+handle exception using try ,catch and finally.
+finally block execute all time .
